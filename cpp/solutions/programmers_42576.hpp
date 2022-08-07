@@ -4,24 +4,31 @@
 #include <vector>
 #include <map>
 
-using namespace std;
-
 class programmers_42576 {
 public:
     static void execute() {
         programmers_42576 solution{};
-        solution.test(std::vector<string>{"leo", "kiki", "eden"}, std::vector<string>{"kiki", "eden"});
-        solution.test(std::vector<string>{"marina", "josipa", "nikola", "vinko", "filipa"}, std::vector<string>{"josipa", "filipa", "marina", "nikola"});
-        solution.test(std::vector<string>{"mislav", "stanko", "mislav", "ana"}, std::vector<string>{"stanko", "ana", "mislav"});
+        solution.test(
+            std::vector<std::string>{"leo", "kiki", "eden"}, 
+            std::vector<std::string>{"kiki", "eden"}
+            );
+        solution.test(
+            std::vector<std::string>{"marina", "josipa", "nikola", "vinko", "filipa"}, 
+            std::vector<std::string>{"josipa", "filipa", "marina", "nikola"}
+            );
+        solution.test(
+            std::vector<std::string>{"mislav", "stanko", "mislav", "ana"}, 
+            std::vector<std::string>{"stanko", "ana", "mislav"}
+            );
     }
 
-    void test(vector<string> participant, vector<string> completion) {
-        std::cout << programmers_42576::solution(participant, completion) << std::endl;
+    void test(std::vector<std::string> participant, std::vector<std::string> completion) {
+        std::cout << solution(participant, completion) << std::endl;
     }
 
-    string solution(vector<string> participant, vector<string> completion) {
-        map<string, int> result;
-        string answer = "";
+    std::string solution(std::vector<std::string> participant, std::vector<std::string> completion) {
+        std::map<std::string, int> result;
+        std::string answer = "";
         
         for(int i = 0; i < participant.size(); i++) {
             result[participant[i]]++;
