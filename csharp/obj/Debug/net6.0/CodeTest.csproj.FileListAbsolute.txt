@@ -1,0 +1,15 @@
+/Users/yhjang/Dev/CodeTest/Csharp/bin/Debug/net6.0/CodeTest
+/Users/yhjang/Dev/CodeTest/Csharp/bin/Debug/net6.0/CodeTest.deps.json
+/Users/yhjang/Dev/CodeTest/Csharp/bin/Debug/net6.0/CodeTest.runtimeconfig.json
+/Users/yhjang/Dev/CodeTest/Csharp/bin/Debug/net6.0/CodeTest.dll
+/Users/yhjang/Dev/CodeTest/Csharp/bin/Debug/net6.0/CodeTest.pdb
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.csproj.AssemblyReference.cache
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.AssemblyInfoInputs.cache
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.AssemblyInfo.cs
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.csproj.CoreCompileInputs.cache
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.dll
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/refint/CodeTest.dll
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.pdb
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/CodeTest.genruntimeconfig.cache
+/Users/yhjang/Dev/CodeTest/Csharp/obj/Debug/net6.0/ref/CodeTest.dll
